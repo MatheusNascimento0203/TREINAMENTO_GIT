@@ -1,0 +1,3 @@
+nome: Emanuel Bacalhau
+Idade: 21
+Estado civil: Solteiro
