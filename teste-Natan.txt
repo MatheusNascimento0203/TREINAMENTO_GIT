@@ -1,3 +1,0 @@
-Nome: Natan
-idade: 24 anos
-Estado Civil: Solteiro

@@ -1,3 +1,0 @@
-nome: Lucas
-idade: 21
-estado civil: solteiro
