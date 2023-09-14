@@ -1,3 +1,6 @@
 Nome: Emanuel Bacalhau
 Idade: 21
 Estado civil: Solteiro
+Nome: Juan
+Idade: 19
+Estado Civil: Solteiro
