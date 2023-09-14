@@ -10,3 +10,6 @@ Estado Civil: Solteiro
 Nome:Alex da Silva Sobrinho
 Idade:24/07/1977
 Estado civil:divorciado
+Nome: Lucas
+Idade: 21
+Status civil: Solteiro
