@@ -1,0 +1,3 @@
+Nome: Juan
+Idade: 19 anos
+Estado Civil: Solteiro
